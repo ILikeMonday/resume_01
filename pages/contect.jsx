@@ -5,7 +5,7 @@ export default function contect() {
   return (
     <div>
       <Navbar />
-      <div class="text-bg-dark p-1 fs-1">
+      <div className="text-bg-dark p-1 fs-1">
         <div style={{ backgroundColor: "darkgray", textAlign: "center" }}>
           Contect me
         </div>
@@ -22,33 +22,33 @@ export default function contect() {
           />
         </div>
         <br />
-        <span class="fw-bold fs-2">Sirawich Pintana</span>
+        <span className="fw-bold fs-2">Sirawich Pintana</span>
         <br />
-        <span class="fw-bold">Name : </span>
+        <span className="fw-bold">Name : </span>
         <span>Sirawich Pintana</span>
         <br />
-        <span class="fw-bold">Nickname :</span>
+        <span className="fw-bold">Nickname :</span>
         <span>Fifa</span>
         <br />
-        <span class="fw-bold"> Address : </span>
+        <span className="fw-bold"> Address : </span>
         <span>
           369/3 ตำบล บ้านกลาง อำเภอ สันป่าตอง จังหวัด เชียงใหม่ 50120{" "}
         </span>
         <br />
-        <span class="fw-bold"> Facebook : </span>
+        <span className="fw-bold"> Facebook : </span>
         <a href="https://www.facebook.com/worldrocker64" target="_blank">
           https://www.facebook.com/worldrocker64
         </a>
         <br />
-        <span class="fw-bold">Email : </span>
+        <span className="fw-bold">Email : </span>
         <a href="mailto:Sirawich_Pin@cmu.ac.th" target="_blank">
           Sirawich_Pin@cmu.ac.th
         </a>
         <br />
-        <span class="fw-bold">Phone : </span>
+        <span className="fw-bold">Phone : </span>
         <span>062-7535095</span>
         <br />
-        <span class="fw-bold">Freelance : </span>
+        <span className="fw-bold">Freelance : </span>
         <span>available</span>
       </div>
       <br />

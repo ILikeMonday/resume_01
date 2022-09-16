@@ -124,6 +124,7 @@ export default function todolist() {
           <ThemeContext.Provider value={{ selTheme, toggleTheme }}>
             {todos.map((todo, id) => (
               <Todo
+                key={id}
                 title={todo.title}
                 completed={todo.completed}
                 onmark={() => markTodo(id)}

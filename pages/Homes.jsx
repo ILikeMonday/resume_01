@@ -12,7 +12,7 @@ export default function Header() {
         <div style={{ textAlign: "center" }} className="fs-5">
           <br />
           <div
-            class="card"
+            className="card"
             style={{ width: "400px", backgroundColor: "azure" }}
           >
             <img
