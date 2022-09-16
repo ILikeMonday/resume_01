@@ -15,7 +15,7 @@ export default function Navbar() {
         <Link href="/contect">
           <a>Contect</a>
         </Link>
-        <Link href="/todolist">
+        <Link href="/lab07">
           <a>Lab-07</a>
         </Link>
       </div>
