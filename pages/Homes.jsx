@@ -26,6 +26,8 @@ export default function Header() {
               <p className="card-text">
                 I love coding! I code desktop application usingC# and etc.,
                 frontend website using Vue and React ,and also the backend part.
+                And I also, knew other programming language Ex. c++ ,python
+                ,java
               </p>
             </div>
           </div>
@@ -53,16 +55,15 @@ export default function Header() {
           style={{ width: "400px", backgroundColor: "azure" }}
         >
           <img
-            src="https://cdn.gamingdose.com/wp-content/uploads/2021/08/seer-abilities-apex-legends-emergence-1000x600-1.jpg"
+            src="https://images.squarespace-cdn.com/content/v1/6088bf84f6460a6aaca60f42/1623041285038-QBNX9Q69SXAUBY8JVMCN/610_9576.jpg"
             className="card-img-top"
             alt="..."
           />
           <br />
           <div className="card-body" style={{ textAlign: "center" }}>
-            <h5 className="card-title fw-bold">Apex legend</h5>
+            <h5 className="card-title fw-bold">My hobby</h5>
             <p className="card-text">
-              My hobby is playing game and my favorite game is Apex legend. My
-              highest rank/competitive was diamond.
+              My hobby is going to gym. On hoilday I often go to gym.
             </p>
           </div>
         </div>
